@@ -4,6 +4,7 @@
 <div markdown="1">       
 <pre>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164673">조건에 부합하는 중고거래 댓글 조회하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164671">조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기</a>
 </pre>
 </div>
 </details>
