@@ -10,6 +10,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151138">자동차 대여 기록에서 장기/단기 대여 구분하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157342">자동차 평균 대여 기간 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131124">그룹별 조건에 맞는 식당 목록 출력하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">입양 시각 구하기(2)</a>
 </pre>
 </div>
 </details>
