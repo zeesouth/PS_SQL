@@ -13,6 +13,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">입양 시각 구하기(2)</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131537">오프라인/온라인 판매 데이터 통합하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133027">주문량이 많은 아이스크림들 조회하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">헤비 유저가 소유한 장소</a>
 </pre>
 </div>
 </details>
