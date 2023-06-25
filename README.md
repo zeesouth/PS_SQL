@@ -18,6 +18,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534">상품을 구매한 회원 비율 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151141">자동차 대여 기록 별 대여 금액 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">우유와 요거트가 담긴 장바구니</a>
 </pre>
 </div>
 </details>
