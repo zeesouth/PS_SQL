@@ -20,6 +20,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151141">자동차 대여 기록 별 대여 금액 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">우유와 요거트가 담긴 장바구니</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856">저자 별 카테고리 별 매출액 집계하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132204">취소되지 않은 진료 예약 조회하기</a>
 </pre>
 </div>
 </details>
