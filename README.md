@@ -23,6 +23,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132204">취소되지 않은 진료 예약 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131532">년, 월, 성별 별 상품 구매 회원 수 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">서울에 위치한 식당 목록 출력하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131117">5월 식품들의 총매출 조회하기</a>
 </pre>
 </div>
 </details>
