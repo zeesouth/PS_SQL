@@ -25,6 +25,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">서울에 위치한 식당 목록 출력하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131117">5월 식품들의 총매출 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131116">식품분류별 가장 비싼 식품의 정보 조회하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59045">보호소에서 중성화한 동물</a>
 </pre>
 </div>
 </details>
