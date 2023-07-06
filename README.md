@@ -29,6 +29,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59042">없어진 기록 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164672">조건에 부합하는 중고거래 상태 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157343">특정 옵션이 포함된 자동차 리스트 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59415">최댓값 구하기</a>
 </pre>
 </div>
 </details>
