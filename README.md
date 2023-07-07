@@ -31,6 +31,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157343">특정 옵션이 포함된 자동차 리스트 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59415">최댓값 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131123">즐겨찾기가 가장 많은 식당 정보 출력하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157341">대여 기록이 존재하는 자동차 리스트 구하기</a>
 </pre>
 </div>
 </details>
