@@ -34,6 +34,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157341">대여 기록이 존재하는 자동차 리스트 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164668">조건에 맞는 사용자와 총 거래금액 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144855">카테고리 별 도서 판매량 집계하기</a>
 </pre>
 </div>
 </details>
