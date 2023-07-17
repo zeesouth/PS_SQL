@@ -38,6 +38,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59411">오랜 기간 보호한 동물(2)</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">있었는데요 없었습니다</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">오랜 기간 보호한 동물(1)</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133025">과일로 만든 아이스크림 고르기</a>
 </pre>
 </div>
 </details>
