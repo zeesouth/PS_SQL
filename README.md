@@ -39,6 +39,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">있었는데요 없었습니다</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59044">오랜 기간 보호한 동물(1)</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133025">과일로 만든 아이스크림 고르기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131536">재구매가 일어난 상품과 회원 리스트 구하기</a>
 </pre>
 </div>
 </details>
