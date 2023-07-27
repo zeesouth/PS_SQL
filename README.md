@@ -45,6 +45,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59034">모든 레코드 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131530">가격대 별 상품 개수 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144853">조건에 맞는 도서 리스트 출력하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133026">성분으로 구분한 아이스크림 총 주문량</a>
 </pre>
 </div>
 </details>
