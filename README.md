@@ -48,6 +48,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133026">성분으로 구분한 아이스크림 총 주문량</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59046">루시와 엘라 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144854">조건에 맞는 도서와 저자 리스트 출력하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151137">자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</a>
 </pre>
 </div>
 </details>
