@@ -49,6 +49,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59046">루시와 엘라 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144854">조건에 맞는 도서와 저자 리스트 출력하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151137">자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131533">상품 별 오프라인 매출 구하기</a></a>
 </pre>
 </div>
 </details>
