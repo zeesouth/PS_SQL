@@ -52,6 +52,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131533">상품 별 오프라인 매출 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132202">진료과별 총 예약 횟수 출력하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024">인기있는 아이스크림</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59412">입양 시각 구하기(1)</a>
 </pre>
 </div>
 </details>
