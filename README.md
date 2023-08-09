@@ -53,6 +53,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132202">진료과별 총 예약 횟수 출력하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024">인기있는 아이스크림</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59412">입양 시각 구하기(1)</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131529">카테고리 별 상품 개수 구하기</a>
 </pre>
 </div>
 </details>
