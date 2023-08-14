@@ -65,7 +65,8 @@
 <summary>Leetcode</summary>
 <div markdown="1">       
 <pre>
-- <a href="https://leetcode.com/problems/department-top-three-salaries/description/">Department Top Three Salaries</a>
+- <a href="https://leetcode.com/problems/department-top-three-salaries/description/">185. Department Top Three Salaries</a>
+- <a href="https://leetcode.com/problems/trips-and-users/description/">262. Trip And Users</a>
 </pre>
 </div>
 </details>
