@@ -65,10 +65,11 @@
 <summary>Leetcode</summary>
 <div markdown="1">       
 <pre>
-- <a href="https://leetcode.com/problems/department-top-three-salaries/description/">185. Department Top Three Salaries</a>
-- <a href="https://leetcode.com/problems/trips-and-users/description/">262. Trip And Users</a>
-- <a href="https://leetcode.com/problems/human-traffic-of-stadium/description/">601. Human Traffic of Stadium</a>
-- <a href="https://leetcode.com/problems/game-play-analysis-iv/description/">550. Game Play Analysis IV</a>
+- <a href="https://leetcode.com/problems/department-top-three-salaries/">185. Department Top Three Salaries</a>
+- <a href="https://leetcode.com/problems/trips-and-users/">262. Trip And Users</a>
+- <a href="https://leetcode.com/problems/human-traffic-of-stadium/">601. Human Traffic of Stadium</a>
+- <a href="https://leetcode.com/problems/game-play-analysis-ivn/">550. Game Play Analysis IV</a>
+- <a href="https://leetcode.com/problems/second-highest-salary/">176. Second Highest Salary</a>
 </pre>
 </div>
 </details>
