@@ -72,6 +72,7 @@
 - <a href="https://leetcode.com/problems/second-highest-salary/">176. Second Highest Salary</a>
 - <a href="https://leetcode.com/problems/nth-highest-salary/">177. Nth Highest Salary</a>
 - <a href="https://leetcode.com/problems/product-sales-analysis-iii/">1070. Product Sales Analysis III</a>
+- <a href="https://leetcode.com/problems/patients-with-a-condition/">1527. Patients With a Condition</a>
 </pre>
 </div>
 </details>
