@@ -70,6 +70,7 @@
 - <a href="https://leetcode.com/problems/human-traffic-of-stadium/">601. Human Traffic of Stadium</a>
 - <a href="https://leetcode.com/problems/game-play-analysis-ivn/">550. Game Play Analysis IV</a>
 - <a href="https://leetcode.com/problems/second-highest-salary/">176. Second Highest Salary</a>
+- <a href="https://leetcode.com/problems/nth-highest-salary/">177. Nth Highest Salary</a>
 </pre>
 </div>
 </details>
