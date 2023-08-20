@@ -74,6 +74,7 @@
 - <a href="https://leetcode.com/problems/product-sales-analysis-iii/">1070. Product Sales Analysis III</a>
 - <a href="https://leetcode.com/problems/patients-with-a-condition/">1527. Patients With a Condition</a>
 - <a href="https://leetcode.com/problems/movie-rating/">1341. Movie Rating</a>
+- <a href="https://leetcode.com/problems/consecutive-numbers/">180. Consecutive Numbers</a>
 </pre>
 </div>
 </details>
