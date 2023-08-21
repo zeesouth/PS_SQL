@@ -75,6 +75,7 @@
 - <a href="https://leetcode.com/problems/patients-with-a-condition/">1527. Patients With a Condition</a>
 - <a href="https://leetcode.com/problems/movie-rating/">1341. Movie Rating</a>
 - <a href="https://leetcode.com/problems/consecutive-numbers/">180. Consecutive Numbers</a>
+- <a href="https://leetcode.com/problems/rank-scores/">178. Rank Scores</a>
 </pre>
 </div>
 </details>
