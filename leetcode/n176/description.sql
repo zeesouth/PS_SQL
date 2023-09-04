@@ -1,7 +1,10 @@
-SELECT IFNULL((SELECT SALARY
-               FROM EMPLOYEE
-               GROUP BY SALARY
-               ORDER BY SALARY DESC
-                  LIMIT 1, 1), null)
-           AS SecondHighestSalary
-FROM EMPLOYEE LIMIT 1
+WITH T1 AS (
+    SELECT DISTINCT SALARY
+    FROM EMPLOYEE
+    ORDER BY SALARY DESC
+    LIMIT 1, 1
+    )
+
+SELECT
+    IF(COUNT(*) = 0, null, SALARY) SecondHighestSalary
+FROM T1
