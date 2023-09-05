@@ -76,8 +76,9 @@
 - <a href="https://leetcode.com/problems/movie-rating/">1341. Movie Rating</a>
 - <a href="https://leetcode.com/problems/consecutive-numbers/">180. Consecutive Numbers</a>
 - <a href="https://leetcode.com/problems/rank-scores/">178. Rank Scores</a> 
-- <a href="https://leetcode.com/investments-in-2016/description/">585. Investments in 2016</a> 
-- <a href="https://leetcode.com/friend-requests-ii-who-has-the-most-friends/submissions/">602. Friend Requests Il: Who Has the Most Friends </a> 
+- <a href="https://leetcode.com/problems/investments-in-2016/">585. Investments in 2016</a> 
+- <a href="https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/">602. Friend Requests Il: Who Has the Most Friends </a> 
+- <a href="https://leetcode.com/problems/department-highest-salary/">184. Department Highest Salary </a> 
 </pre>
 </div>
 </details>
