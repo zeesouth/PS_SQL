@@ -81,6 +81,7 @@
 - <a href="https://leetcode.com/problems/department-highest-salary/">184. Department Highest Salary</a> 
 - <a href="https://leetcode.com/problems/count-salary-categories/">1907. Count Salary Categories</a> 
 - <a href="https://leetcode.com/problems/confirmation-rate/">1934. Confirmation Rate</a> 
+- <a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/">570. Managers with a Least 5 Direct Reports</a> 
 </pre>
 </div>
 </details>
