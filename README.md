@@ -80,6 +80,7 @@
 - <a href="https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/">602. Friend Requests Il: Who Has the Most Friends</a> 
 - <a href="https://leetcode.com/problems/department-highest-salary/">184. Department Highest Salary</a> 
 - <a href="https://leetcode.com/problems/count-salary-categories/">1907. Count Salary Categories</a> 
+- <a href="https://leetcode.com/problems/confirmation-rate/">1934. Confirmation Rate</a> 
 </pre>
 </div>
 </details>
