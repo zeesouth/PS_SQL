@@ -83,6 +83,7 @@
 - <a href="https://leetcode.com/problems/confirmation-rate/">1934. Confirmation Rate</a>
 - <a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/">570. Managers with a Least 5 Direct Reports</a>
 - <a href="https://leetcode.com/problems/immediate-food-delivery-ii/">1174. Immediate Food Delivery Il</a>
+- <a href="https://leetcode.com/problems/market-analysis-i">1158. Market Analysis I</a>
 </pre>
 </div>
 </details>
