@@ -85,6 +85,7 @@
 - <a href="https://leetcode.com/problems/immediate-food-delivery-ii/">1174. Immediate Food Delivery Il</a>
 - <a href="https://leetcode.com/problems/market-analysis-i/">1158. Market Analysis I</a>
 - <a href="https://leetcode.com/problems/product-price-at-a-given-date/">1164. Product Price at a Given Date</a>
+- <a href="https://leetcode.com/problems/monthly-transactions-i/">1193. Monthly Transactions I</a>
 </pre>
 </div>
 </details>
