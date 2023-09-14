@@ -89,6 +89,7 @@
 - <a href="https://leetcode.com/problems/restaurant-growth/">1321. Restaurant Growth</a>
 - <a href="https://leetcode.com/problems/tree-node/">608. Tree Node</a>
 - <a href="https://leetcode.com/problems/customers-who-bought-all-products/">1045. Customers Who Bought All Products</a>
+- <a href="https://leetcode.com/problems/exchange-seats/">626. Exchange Seats</a>
 </pre>
 </div>
 </details>
