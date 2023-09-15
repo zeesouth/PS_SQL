@@ -91,6 +91,7 @@
 - <a href="https://leetcode.com/problems/customers-who-bought-all-products/">1045. Customers Who Bought All Products</a>
 - <a href="https://leetcode.com/problems/exchange-seats/">626. Exchange Seats</a>
 - <a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus/">1204. Last Person to Fit in the Bus</a>
+- <a href="https://leetcode.com/problems/capital-gainloss/">1393. Capital Gain/Loss</a>
 </pre>
 </div>
 </details>
