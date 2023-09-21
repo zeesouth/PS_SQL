@@ -92,6 +92,7 @@
 - <a href="https://leetcode.com/problems/exchange-seats/">626. Exchange Seats</a>
 - <a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus/">1204. Last Person to Fit in the Bus</a>
 - <a href="https://leetcode.com/problems/capital-gainloss/">1393. Capital Gain/Loss</a>
+- <a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/">1731. The Number of Employees Which Report to Each Employee</a>
 </pre>
 </div>
 </details>
