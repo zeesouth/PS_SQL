@@ -94,6 +94,7 @@
 - <a href="https://leetcode.com/problems/capital-gainloss/">1393. Capital Gain/Loss</a>
 - <a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/">1731. The Number of Employees Which Report to Each Employee</a>
 - <a href="https://leetcode.com/problems/rising-temperature/">197. Rising Temperature</a>
+- <a href="https://leetcode.com/problems/sales-analysis-iii/">1084. Sales Analysis III</a>
 </pre>
 </div>
 </details>
