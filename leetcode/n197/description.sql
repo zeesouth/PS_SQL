@@ -1,0 +1,5 @@
+SELECT A.ID
+FROM WEATHER A
+         LEFT JOIN WEATHER B
+                   ON DATEDIFF(A.recordDate, B.recordDate) = 1
+WHERE A.TEMPERATURE > B.TEMPERATURE
