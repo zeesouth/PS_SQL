@@ -104,6 +104,7 @@
 <div markdown="1">       
 <pre>
 - <a href="https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true">Interviews</a>
+- <a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true">Binary Tree Nodes</a>
 </pre>
 </div>
 </details>
