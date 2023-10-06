@@ -95,6 +95,7 @@
 - <a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/">1731. The Number of Employees Which Report to Each Employee</a>
 - <a href="https://leetcode.com/problems/rising-temperature/">197. Rising Temperature</a>
 - <a href="https://leetcode.com/problems/sales-analysis-iii/">1084. Sales Analysis III</a>
+- <a href="https://leetcode.com/problems/find-users-with-valid-e-mails/">1517. Find Users With Valid E-Mails</a>
 </pre>
 </div>
 </details>
