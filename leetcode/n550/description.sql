@@ -1,15 +1,11 @@
-with t1 as (select player_id, min(event_date) min_date
-            from Activity
-            group by player_id
-            order by player_id),
-     t3 as (select if(sum(case
-                              when datediff(t2.event_date, t1.min_date) = 1 then 1
-                              else 0
-         end) > 0, 1, 0) flag
-            from t1,
-                 activity t2
-            where t1.player_id = t2.player_id
-            group by t1.player_id)
+WITH T1 AS (SELECT PLAYER_ID, MIN(EVENT_DATE) START
+            FROM ACTIVITY
+            GROUP BY PLAYER_ID)
 
-select round(sum(flag) / count(*), 2) fraction
-from t3;
+SELECT ROUND(AVG(FLAG), 2) FRACTION
+FROM (SELECT IF(SUM(DIFF) > 0, 1, 0) FLAG
+      FROM (SELECT T1.PLAYER_ID, IF(DATEDIFF(ACTIVITY.EVENT_DATE, START) = 1, 1, 0) DIFF
+            FROM ACTIVITY,
+                 T1
+            WHERE ACTIVITY.PLAYER_ID = T1.PLAYER_ID) A
+      GROUP BY PLAYER_ID) B
