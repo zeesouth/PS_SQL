@@ -6,4 +6,4 @@ WHERE (PRODUCT_ID
     , MIN (YEAR)
     FROM SALES
     GROUP BY PRODUCT_ID
-    );
+    )
