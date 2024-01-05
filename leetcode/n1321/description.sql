@@ -1,16 +1,14 @@
-WITH T1 AS (select visited_on,
-                   sum(amount) as day_amount
-            from customer
-            group by visited_on),
-     T2 AS (select min(visited_on)
-            from customer)
+WITH T1 AS
+         (SELECT VISITED_ON
+          FROM CUSTOMER
+          GROUP BY VISITED_ON)
 
-select a.visited_on                    as visited_on,
-       sum(b.day_amount)               as amount,
-       round(sum(b.day_amount) / 7, 2) as average_amount
-from T1 a,
-     T1 b
-where datediff(a.visited_on, b.visited_on) between 0 and 6
-  and a.visited_on - 6 >= (SELECT * FROM T2)
-group by a.visited_on
-order by a.visited_on
+SELECT A.VISITED_ON,
+       SUM(B.AMOUNT)               AMOUNT,
+       ROUND(SUM(B.AMOUNT) / 7, 2) AVERAGE_AMOUNT
+FROM T1 A
+         INNER JOIN CUSTOMER B
+                    ON DATEDIFF(A.VISITED_ON, B.VISITED_ON) BETWEEN 0 AND 6
+WHERE DATEDIFF(A.VISITED_ON, (SELECT MIN(VISITED_ON) FROM CUSTOMER)) >= 6
+GROUP BY A.VISITED_ON
+ORDER BY A.VISITED_ON
