@@ -97,6 +97,7 @@
 - <a href="https://leetcode.com/problems/sales-analysis-iii/">1084. Sales Analysis III</a>
 - <a href="https://leetcode.com/problems/find-users-with-valid-e-mails/">1517. Find Users With Valid E-Mails</a>
 - <a href="https://leetcode.com/problems/employees-whose-manager-left-the-company/">1978. Employees Whose Manager Left the Company</a>
+- <a href="https://leetcode.com/problems/average-selling-price/">1251. Average Selling Price</a>
 </pre>
 </div>
 </details>
