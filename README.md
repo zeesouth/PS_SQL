@@ -98,6 +98,7 @@
 - <a href="https://leetcode.com/problems/find-users-with-valid-e-mails/">1517. Find Users With Valid E-Mails</a>
 - <a href="https://leetcode.com/problems/employees-whose-manager-left-the-company/">1978. Employees Whose Manager Left the Company</a>
 - <a href="https://leetcode.com/problems/average-selling-price/">1251. Average Selling Price</a>
+- <a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/">1141. User Activity for the Past 30 Days I</a>
 </pre>
 </div>
 </details>
