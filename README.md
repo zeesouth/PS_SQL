@@ -101,6 +101,7 @@
 - <a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/">1141. User Activity for the Past 30 Days I</a>
 - <a href="https://leetcode.com/problems/classes-more-than-5-students/">596. Classes More Than 5 Students</a>
 - <a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest/">1633. Percentage of Users Attended a Contest</a>
+- <a href="https://leetcode.com/problems/students-and-examinations/">1280. Students and Examinations</a>
 </pre>
 </div>
 </details>
