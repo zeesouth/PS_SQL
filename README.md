@@ -103,6 +103,7 @@
 - <a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest/">1633. Percentage of Users Attended a Contest</a>
 - <a href="https://leetcode.com/problems/students-and-examinations/">1280. Students and Examinations</a>
 - <a href="https://leetcode.com/problems/queries-quality-and-percentage/">1211. Queries Quality and Percentage</a>
+- <a href="https://leetcode.com/problems/calculate-special-bonus/">1873. Calculate Special Bonus</a>
 </pre>
 </div>
 </details>
