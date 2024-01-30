@@ -104,6 +104,7 @@
 - <a href="https://leetcode.com/problems/students-and-examinations/">1280. Students and Examinations</a>
 - <a href="https://leetcode.com/problems/queries-quality-and-percentage/">1211. Queries Quality and Percentage</a>
 - <a href="https://leetcode.com/problems/calculate-special-bonus/">1873. Calculate Special Bonus</a>
+- <a href="https://leetcode.com/problems/top-travellers/">1407. Top Travellers</a>
 </pre>
 </div>
 </details>
