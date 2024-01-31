@@ -105,6 +105,7 @@
 - <a href="https://leetcode.com/problems/queries-quality-and-percentage/">1211. Queries Quality and Percentage</a>
 - <a href="https://leetcode.com/problems/calculate-special-bonus/">1873. Calculate Special Bonus</a>
 - <a href="https://leetcode.com/problems/top-travellers/">1407. Top Travellers</a>
+- <a href="https://leetcode.com/problems/biggest-single-number/">619. Biggest Single Number</a>
 </pre>
 </div>
 </details>
