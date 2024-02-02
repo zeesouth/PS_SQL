@@ -106,6 +106,7 @@
 - <a href="https://leetcode.com/problems/calculate-special-bonus/">1873. Calculate Special Bonus</a>
 - <a href="https://leetcode.com/problems/top-travellers/">1407. Top Travellers</a>
 - <a href="https://leetcode.com/problems/biggest-single-number/">619. Biggest Single Number</a>
+- <a href="https://leetcode.com/problems/delete-duplicate-emails/">196. Delete Duplicate Emails</a>
 </pre>
 </div>
 </details>
