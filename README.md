@@ -107,6 +107,7 @@
 - <a href="https://leetcode.com/problems/top-travellers/">1407. Top Travellers</a>
 - <a href="https://leetcode.com/problems/biggest-single-number/">619. Biggest Single Number</a>
 - <a href="https://leetcode.com/problems/delete-duplicate-emails/">196. Delete Duplicate Emails</a>
+- <a href="https://leetcode.com/problems/fix-names-in-a-table/">1667. Fix Names in a Table</a>
 </pre>
 </div>
 </details>
