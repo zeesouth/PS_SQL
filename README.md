@@ -109,6 +109,7 @@
 - <a href="https://leetcode.com/problems/delete-duplicate-emails/">196. Delete Duplicate Emails</a>
 - <a href="https://leetcode.com/problems/fix-names-in-a-table/">1667. Fix Names in a Table</a>
 - <a href="https://leetcode.com/problems/project-employees-i/">1075. Project Employees I</a>
+- <a href="https://leetcode.com/problems/primary-department-for-each-employee/">1789. Primary Department for Each Employee</a>
 </pre>
 </div>
 </details>
