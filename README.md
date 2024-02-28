@@ -122,6 +122,7 @@
 - <a href="https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true">Interviews</a>
 - <a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true">Binary Tree Nodes</a>
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true">Weather Observation Station 20</a>
+- <a href="https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true">Occupations</a>
 </pre>
 </div>
 </details>
