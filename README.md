@@ -125,6 +125,7 @@
 - <a href="https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true">Occupations</a>
 - <a href="https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true">New Companies</a>
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true">Weather Observation Station 18</a>
+- <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true">The Report</a>
 </pre>
 </div>
 </details>
