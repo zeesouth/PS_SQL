@@ -126,6 +126,7 @@
 - <a href="https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true">New Companies</a>
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true">Weather Observation Station 18</a>
 - <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true">The Report</a>
+- <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true">Top Competitors</a>
 </pre>
 </div>
 </details>
