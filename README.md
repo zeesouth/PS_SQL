@@ -127,6 +127,7 @@
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true">Weather Observation Station 18</a>
 - <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true">The Report</a>
 - <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true">Top Competitors</a>
+- <a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true">Ollivander's Inventory</a>
 </pre>
 </div>
 </details>
