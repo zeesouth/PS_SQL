@@ -129,6 +129,7 @@
 - <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true">Top Competitors</a>
 - <a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true">Ollivander's Inventory</a>
 - <a href="https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true">Challenges</a>
+- <a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true">Contest Leaderboard</a>
 </pre>
 </div>
 </details>
