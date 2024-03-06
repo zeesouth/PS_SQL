@@ -1,0 +1,8 @@
+SELECT A.X, A.Y
+FROM FUNCTIONS A
+         JOIN FUNCTIONS B
+              ON A.Y = B.X AND A.X = B.Y
+GROUP BY A.X, A.Y
+HAVING COUNT(*) > 1
+    OR A.X < A.Y
+ORDER BY A.X
