@@ -131,6 +131,7 @@
 - <a href="https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true">Challenges</a>
 - <a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true">Contest Leaderboard</a>
 - <a href="https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true">SQL Project Planning</a>
+- <a href="https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true">Placements</a>
 </pre>
 </div>
 </details>
