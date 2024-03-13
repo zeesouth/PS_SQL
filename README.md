@@ -135,6 +135,7 @@
 - <a href="https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true">Symmetric Pairs</a>
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true">Weather Observation Station 19</a>
 - <a href="https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true">The PADS</a>
+- <a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true">15 Days of Learning SQL</a>
 </pre>
 </div>
 </details>
