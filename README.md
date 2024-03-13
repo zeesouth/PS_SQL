@@ -134,6 +134,7 @@
 - <a href="https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true">Placements</a>
 - <a href="https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true">Symmetric Pairs</a>
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true">Weather Observation Station 19</a>
+- <a href="https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true">The PADS</a>
 </pre>
 </div>
 </details>
