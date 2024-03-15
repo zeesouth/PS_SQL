@@ -57,6 +57,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132201">12세 이하인 여자 환자 목록 출력하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132203">흉부외과 또는 일반외과 의사 목록 출력하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59040">고양이와 개는 몇 마리 있을까</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409">중성화 여부 파악하기/a>
 </pre>
 </div>
 </details>
