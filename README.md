@@ -144,6 +144,7 @@
 - <a href="https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true">Print Prime Numbers</a>
 - <a href="https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true">Draw The Triangle 1</a>
 - <a href="https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true">Draw The Triangle 2</a>
+- <a href="https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true">The Blunder</a>
 </pre>
 </div>
 </details>
