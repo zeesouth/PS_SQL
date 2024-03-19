@@ -60,6 +60,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409">중성화 여부 파악하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131535">조건에 맞는 회원수 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59414">DATETIME에서 DATE로 형 변환</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293261">물고기 종류 별 대어 찾기</a>
 </pre>
 </div>
 </details>
