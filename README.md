@@ -59,6 +59,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59040">고양이와 개는 몇 마리 있을까</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409">중성화 여부 파악하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131535">조건에 맞는 회원수 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59414">DATETIME에서 DATE로 형 변환</a>
 </pre>
 </div>
 </details>
