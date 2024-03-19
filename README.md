@@ -114,6 +114,7 @@
 - <a href="https://leetcode.com/problems/project-employees-i/">1075. Project Employees I</a>
 - <a href="https://leetcode.com/problems/primary-department-for-each-employee/">1789. Primary Department for Each Employee</a>
 - <a href="https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/">586. Customer Placing the Largest Number of Orders</a>
+- <a href="https://leetcode.com/problems/combine-two-tables/">175. Combine Two Tables</a>
 </pre>
 </div>
 </details>
