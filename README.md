@@ -142,6 +142,7 @@
 - <a href="https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true">The PADS</a>
 - <a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true">15 Days of Learning SQL</a>
 - <a href="https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true">Print Prime Numbers</a>
+- <a href="https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true">Draw The Triangle 1</a>
 </pre>
 </div>
 </details>
