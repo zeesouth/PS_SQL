@@ -63,6 +63,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293261">물고기 종류 별 대어 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284529">부서별 평균 연봉 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273712">업그레이드 할 수 없는 아이템 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276036">언어 별 개발자 분류하기</a>
 </pre>
 </div>
 </details>
