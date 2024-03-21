@@ -65,6 +65,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273712">업그레이드 할 수 없는 아이템 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276036">언어 별 개발자 분류하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276035">FrontEnd 개발자 찾기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298519">특정 조건을 만족하는 물고기별 수와 최대 길이 구하기</a>
 </pre>
 </div>
 </details>
