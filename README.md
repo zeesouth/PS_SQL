@@ -67,6 +67,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276035">FrontEnd 개발자 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298519">특정 조건을 만족하는 물고기별 수와 최대 길이 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284528">연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276034">조건에 맞는 개발자 찾기</a>
 </pre>
 </div>
 </details>
