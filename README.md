@@ -69,6 +69,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284528">연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276034">조건에 맞는 개발자 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284531">노선별 평균 역 사이 거리 조회하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298517">가장 큰 물고기 10마리 구하기</a>
 </pre>
 </div>
 </details>
