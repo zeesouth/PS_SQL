@@ -71,6 +71,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284531">노선별 평균 역 사이 거리 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298517">가장 큰 물고기 10마리 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299310">연도별 대장균 크기의 편차 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273711">업그레이드 된 아이템 구하기</a>
 </pre>
 </div>
 </details>
