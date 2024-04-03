@@ -75,6 +75,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293259">잡은 물고기의 평균 길이 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298518">특정 물고기를 잡은 총 수 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299305">대장균들의 자식의 수 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299308">분기별 분화된 대장균의 개체 수 구하기</a>
 </pre>
 </div>
 </details>
