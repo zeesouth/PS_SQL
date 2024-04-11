@@ -79,6 +79,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293260">월별 잡은 물고기 수 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301651">멸종위기의 대장균 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301650">특정 세대의 대장균 찾기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299307">대장균의 크기에 따라 분류하기 1</a>
 </pre>
 </div>
 </details>
