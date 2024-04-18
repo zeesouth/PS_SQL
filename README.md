@@ -81,6 +81,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301650">특정 세대의 대장균 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299307">대장균의 크기에 따라 분류하기 1</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301649">대장균의 크기에 따라 분류하기 2</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301646">특정 형질을 가지는 대장균 찾기</a>
 </pre>
 </div>
 </details>
