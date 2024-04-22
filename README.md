@@ -83,6 +83,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301649">대장균의 크기에 따라 분류하기 2</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301646">특정 형질을 가지는 대장균 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301647">부모의 형질을 모두 가지는 대장균 찾기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284527">조건에 맞는 사원 정보 조회하기</a>
 </pre>
 </div>
 </details>
