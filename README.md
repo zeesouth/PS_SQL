@@ -85,6 +85,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/301647">부모의 형질을 모두 가지는 대장균 찾기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284527">조건에 맞는 사원 정보 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276013">Python 개발자 찾기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298516">한 해에 잡은 물고기 수 구하기</a>
 </pre>
 </div>
 </details>
