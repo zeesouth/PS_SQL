@@ -89,6 +89,7 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284530">연도 별 평균 미세먼지 농도 조회하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273710">ROOT 아이템 구하기</a>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293257">물고기 종류 별 잡은 수 구하기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293258">잔챙이 잡은 수 구하기</a>
 </pre>
 </div>
 </details>
