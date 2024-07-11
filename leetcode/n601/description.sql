@@ -1,18 +1,19 @@
-WITH T1 AS (SELECT B.ID
-            FROM STADIUM A
-                     JOIN STADIUM B
-                     JOIN STADIUM C
-                          ON A.ID + 1 = B.ID AND B.ID = C.ID - 1
-            WHERE A.PEOPLE >= 100
-              AND B.PEOPLE >= 100
-              AND C.PEOPLE >= 100)
+WITH TBL AS (SELECT ID
+             FROM (SELECT ID,
+                          PEOPLE,
+                          LEAD(PEOPLE, 1) OVER() AF, LAG(PEOPLE, 1) OVER() BF
+                   FROM STADIUM) A
+             WHERE AF >= 100
+               AND BF >= 100
+               AND PEOPLE >= 100)
+
 
 SELECT *
 FROM STADIUM
-WHERE PEOPLE >= 100
-  AND (
-            (ID - 1) IN (SELECT * FROM T1) OR
-            ID IN (SELECT * FROM T1) OR
-            (ID + 1) IN (SELECT * FROM T1)
-    )
+WHERE (((SELECT COUNT(*) FROM TBL) >= 1) AND
+       (
+                   (ID - 1) IN (SELECT * FROM TBL) OR
+                   (ID) IN (SELECT * FROM TBL) OR
+                   (ID + 1) IN (SELECT * FROM TBL)
+           )) = 1
 ORDER BY VISIT_DATE
