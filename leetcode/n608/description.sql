@@ -1,7 +1,7 @@
-SELECT t.id,
+SELECT ID,
        CASE
-           WHEN t.p_id IS NULL THEN 'Root'
-           WHEN EXISTS (SELECT 1 FROM Tree WHERE p_id = t.id) THEN 'Inner'
+           WHEN P_ID IS NULL THEN 'Root'
+           WHEN ID IN (SELECT DISTINCT P_ID FROM TREE) THEN 'Inner'
            ELSE 'Leaf'
-           END AS type
-FROM Tree t
+           END TYPE
+FROM TREE
