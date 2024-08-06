@@ -1,6 +1,6 @@
-SELECT IF(ID % 2 = 1,
-          IF(ID = (SELECT MAX(ID) FROM SEAT), ID, ID + 1),
-          ID - 1) ID,
-       STUDENT
+SELECT ID,
+       CASE
+           WHEN MOD(ID, 2) = 0 THEN (LAG(student) OVER (ORDER BY ID))
+           ELSE (LEAD(STUDENT, 1, STUDENT) OVER (ORDER BY ID))
+           END AS STUDENT
 FROM SEAT
-ORDER BY ID
